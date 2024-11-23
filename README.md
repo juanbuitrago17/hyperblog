@@ -8,3 +8,5 @@ Un blog increíble para el **curso de Git y Github** de [Platzi](https://platzi.
 * Buenas prácticas
 * Trucos nuevos y mas.
 * Creado por todos 
+* Incluye ejemplos
+* Disponible para todos los niveles
